@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "FrmNavigation",
+    "testCaseInfo": [
+        {
+            "testcaseName": "FormNavigation.js",
+            "appName": "voltmxiostestapp",
+            "selectedDataset": null
+        }
+    ],
+    "usedBy": {
+        "voltmxiostestapp": [
+            "FrmNavigationTestPlan.js"
+        ]
+    },
+    "appName": "voltmxiostestapp"
+}

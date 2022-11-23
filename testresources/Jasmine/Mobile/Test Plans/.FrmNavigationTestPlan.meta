@@ -1,0 +1,11 @@
+{
+    "groupName": "Test Plans",
+    "testRunnerName": "FrmNavigationTestPlan",
+    "testSuiteInfo": [
+        {
+            "testSuiteName": "FrmNavigation.js",
+            "appName": "voltmxiostestapp"
+        }
+    ],
+    "appName": "voltmxiostestapp"
+}
