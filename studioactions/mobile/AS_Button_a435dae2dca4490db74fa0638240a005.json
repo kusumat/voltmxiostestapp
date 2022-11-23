@@ -14,6 +14,10 @@
         },
         "language": "js",
         "actions": [{
+            "id": "ADD_SNIPPET_c08ac09a214144f2948ea6b6edbe0d0c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "voltmx.print(\"Before Naviation\")"
+        }, {
             "id": "NAVIGATE_TO_FORM__c04486cd081d4eb3b204660b4699ed9a",
             "type": "NAVIGATE_TO_FORM",
             "formId": "Form2",
@@ -24,6 +28,12 @@
             "enableMappingEditor": true,
             "package": "",
             "isCustomInput": false
+        }, {
+            "id": "ADD_SNIPPET_d429bb2436744ca8a54c1eaf94bc5669",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "voltmx.print(\"After Naviation\")",
+            "parentId": null,
+            "callbackType": null
         }]
     }
 }
