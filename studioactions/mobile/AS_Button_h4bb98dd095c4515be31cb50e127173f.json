@@ -1,0 +1,35 @@
+{
+    "AS_Button_h4bb98dd095c4515be31cb50e127173f": {
+        "id": "AS_Button_h4bb98dd095c4515be31cb50e127173f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "h2c7d471490e4eb98df1b0fd7c99b88b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT_ac51a7a5ea13450fb16dec185e050c85",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "test Alert",
+            "messageType": "constant",
+            "alertHandler": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

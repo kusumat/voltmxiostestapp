@@ -1,0 +1,29 @@
+{
+    "AS_Button_b8e53219c5ae49c48d9f11211656d559": {
+        "id": "AS_Button_b8e53219c5ae49c48d9f11211656d559",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "h2c7d471490e4eb98df1b0fd7c99b88b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__d24ebde7f0034c1b988a08ad2bc206c2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form2",
+            "formKUID": "a79ce17f57a34f80b5d8ac4a403fd4c2",
+            "projectName": "voltmxiostestapp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
